@@ -1,0 +1,89 @@
+﻿{
+    "IpswPath":  "C:\\Users\\Filimoshki\\Downloads\\iPhone14,5_27.3_24C5037i_Restore.ipsw",
+    "IpswBuild":  "24C5037i",
+    "ToolVersion":  "Version: 3.1.743, BuildCommit: b2c156960c79b0eefe0885dbb32cce7eef77cf2d",
+    "CacheCount":  5,
+    "TotalDeclaredEntries":  4754,
+    "Results":  [
+                    {
+                        "ArchiveEntry":  "Firmware/141-92811-032.dmg.trustcache",
+                        "ArchiveBytes":  8363,
+                        "ArchiveSha256":  "0f5d277b749c34d43f22e3c6e72506696ce3231416bdfe453b8ff780e304bdf6",
+                        "Version":  1,
+                        "Uuid":  "FBA5EEF9-41FF-4D70-A765-651B0280C331",
+                        "DeclaredEntryCount":  378,
+                        "ParsedEntryCount":  378,
+                        "UniqueCdhashCount":  378,
+                        "DuplicateCdhashCount":  0,
+                        "HashTypes":  [
+                                          "sha256"
+                                      ]
+                    },
+                    {
+                        "ArchiveEntry":  "Firmware/141-93054-032.dmg.trustcache",
+                        "ArchiveBytes":  8209,
+                        "ArchiveSha256":  "fa9876a31032a69902e067171a4dfdb1b286aa69155642ab1a36863d6787e65c",
+                        "Version":  1,
+                        "Uuid":  "22DC2C6B-1C7A-403C-B92C-31348B8286A7",
+                        "DeclaredEntryCount":  371,
+                        "ParsedEntryCount":  371,
+                        "UniqueCdhashCount":  371,
+                        "DuplicateCdhashCount":  0,
+                        "HashTypes":  [
+                                          "sha256"
+                                      ]
+                    },
+                    {
+                        "ArchiveEntry":  "Firmware/141-93238-032.dmg.trustcache",
+                        "ArchiveBytes":  863,
+                        "ArchiveSha256":  "1e8c5bc58d90f2f3511946e814a1b33ea6e64b1c34120e8fbb5ed4e4a9f40a8f",
+                        "Version":  2,
+                        "Uuid":  "7D8AF115-ECC8-4CA9-A11C-BA7B9575DACE",
+                        "DeclaredEntryCount":  34,
+                        "ParsedEntryCount":  34,
+                        "UniqueCdhashCount":  34,
+                        "DuplicateCdhashCount":  0,
+                        "HashTypes":  [
+                                          "sha256"
+                                      ]
+                    },
+                    {
+                        "ArchiveEntry":  "Firmware/141-93752-026.dmg.aea.trustcache",
+                        "ArchiveBytes":  92209,
+                        "ArchiveSha256":  "b5bf57a425e57cf4457ebc3806d3bb7e73591985dc722bea074fefdfea84b441",
+                        "Version":  2,
+                        "Uuid":  "07977E62-F89B-425F-B889-4D1052918419",
+                        "DeclaredEntryCount":  3840,
+                        "ParsedEntryCount":  3840,
+                        "UniqueCdhashCount":  3840,
+                        "DuplicateCdhashCount":  0,
+                        "HashTypes":  [
+                                          "sha256"
+                                      ]
+                    },
+                    {
+                        "ArchiveEntry":  "Firmware/141-94047-030.dmg.aea.trustcache",
+                        "ArchiveBytes":  3191,
+                        "ArchiveSha256":  "eaf20125d32f75684cdf6a719ca95010ed2390b5f6aa1828929376c0b6d3acb0",
+                        "Version":  2,
+                        "Uuid":  "3896539E-AFE9-40D4-9937-A48CC6724C76",
+                        "DeclaredEntryCount":  131,
+                        "ParsedEntryCount":  131,
+                        "UniqueCdhashCount":  131,
+                        "DuplicateCdhashCount":  0,
+                        "HashTypes":  [
+                                          "sha256"
+                                      ]
+                    }
+                ],
+    "KeyLookupAttempted":  false,
+    "DecryptionAttempted":  false,
+    "IndividualCdhashesInPortableSummary":  false,
+    "RawParserJson":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\data\\trustcache\\trustcache-parser-output.json",
+    "Transcript":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\logs\\trustcache-summary-run.txt",
+    "Limitations":  [
+                        "Trustcache parsing reports code-signing hash inventory metadata only; it is not vulnerability analysis.",
+                        "Individual hashes are retained only in ignored local parser output and are not copied into portable reports.",
+                        "This does not validate Apple provenance or establish code behavior."
+                    ]
+}

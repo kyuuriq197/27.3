@@ -1,0 +1,23 @@
+﻿{
+    "IpswPath":  "C:\\Users\\Filimoshki\\Downloads\\iPhone14,5_27.3_24C5037i_Restore.ipsw",
+    "IpswBuild":  "24C5037i",
+    "ToolVersion":  "Version: 3.1.743, BuildCommit: b2c156960c79b0eefe0885dbb32cce7eef77cf2d",
+    "ArchiveEntry":  "Firmware/141-93752-026.dmg.aea.mtree",
+    "ArchiveBytes":  38547964,
+    "ArchiveSha256":  "e684e7d81bd6631f82c2e8581b1dcace6770b329f0b6b59a44b6b2ca6290b499",
+    "Im4pType":  "msys",
+    "Im4pVersion":  "0",
+    "Im4pEncrypted":  false,
+    "Im4pPayloadBytes":  38547937,
+    "PayloadSha256":  "6b0193b1ed7b609700fab7e0a0f1347c371dbd4b6d05f6f62e9862568b39a79a",
+    "PayloadMagic":  "pbze",
+    "PayloadPath":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\data\\mtree\\canonical-metadata-payload.pbze",
+    "LzfseDecompressionPerformed":  false,
+    "AppleArchiveIndexParsed":  false,
+    "Transcript":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\logs\\mtree-metadata-run.txt",
+    "Limitations":  [
+                        "The extracted payload begins with pbze; this runner does not decompress the embedded LZFSE stream.",
+                        "No Apple Archive records, file paths, file hashes, or encrypted OS contents were parsed.",
+                        "No AEA key lookup or decryption was performed."
+                    ]
+}

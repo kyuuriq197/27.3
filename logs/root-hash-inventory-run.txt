@@ -1,0 +1,26 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261107112505
+Username: DESKTOP-J9VLGBC\Filimoshki
+RunAs User: DESKTOP-J9VLGBC\Filimoshki
+Configuration Name: 
+Machine: DESKTOP-J9VLGBC (Microsoft Windows NT 10.0.26300.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\tools\windows\Run-RootHashInventory.ps1 -IpswPath C:\Users\Filimoshki\Downloads\iPhone14,5_27.3_24C5037i_Restore.ipsw
+Process ID: 2652
+PSVersion: 5.1.26100.9711
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9711
+BuildVersion: 10.0.26100.9711
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Root-hash sidecar inventory: C:\Users\Filimoshki\Downloads\iphone14-5-ios-27-2-ipsw-analysis-main\iphone14-5-ios-27-2-ipsw-analysis-main\research\ios-27.3\apfs\root_hash_sidecar_inventory.json
+Firmware/141-93238-032.dmg.root_hash: 229 bytes; SHA-256 cf0cfefbaa108f730eeaffdce7ff625c3c0c5168c4cd28c4c00ae9c2a4104145; literal markers: casy, IM4P
+Firmware/141-93752-026.dmg.aea.root_hash: 229 bytes; SHA-256 93e1056a7ff5ceb9227f894946b76d5ad12014c22b9cc468f20260bc56258f35; literal markers: IM4P, isys
+Firmware/141-94047-030.dmg.aea.root_hash: 229 bytes; SHA-256 f16d4d3d62609230dd4e73037f018f0e1d33c1c16b25a3627430c236ad1f08ab; literal markers: cssy, IM4P
+**********************
+Windows PowerShell transcript end
+End time: 20261107112505
+**********************

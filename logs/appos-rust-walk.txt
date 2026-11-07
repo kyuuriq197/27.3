@@ -1,0 +1,13 @@
+﻿container: xid=15 block_size=4096 blocks=4608 incompat=0x2 omap_oid=171 fs_oids=[1026]
+volume: oid=1026 xid=13 name="AppCryptex" omap_oid=166 root_tree_oid=1174 snap_meta_tree_oid=196 incompat=0x28
+omap: flags=0x0 tree_oid=167 snapshot_tree_oid=0
+root_tree: oid=1174 xid=9 flags=0x8 size=4096 paddr=21
+tree_info: flags=0x1c2 hashed=true physical=false node_size=4096 key_size=0 val_size=0 longest_key=64 longest_val=192 key_count=6629 node_count=128
+root_node: flags=0x19 level=2 nkeys=3 leaf=false root=true noheader=true
+tree_walk: nodes=128 leaves=124 records=6629 drec=1367 inode=1051 xattr=1522 other=2689 headerless=128 fletcher_valid=0 fletcher_invalid=0 hash_checked=127 hash_matched=127 hash_mismatched=0 level_mismatches=0
+drec_parents={1: 2, 2: 2, 16: 1, 17: 9, 18: 1, 19: 1, 20: 4, 25: 1, 30: 1, 31: 2, 32: 4, 37: 1, 42: 4, 47: 1, 51: 1, 53: 2, 54: 4, 59: 1, 63: 4, 68: 1, 71: 1, 72: 69, 90: 1, 92: 18, 128: 18, 165: 18, 198: 18, 233: 18, 267: 18, 302: 18, 336: 18, 370: 18, 403: 18, 436: 18, 464: 18, 491: 18, 515: 18, 535: 18, 569: 18, 602: 18, 635: 18, 668: 18, 703: 20, 742: 18, 776: 18, 810: 18, 845: 18, 879: 18, 913: 18, 948: 18, 982: 18, 1015: 18, 1050: 18, 1084: 18, 1118: 18, 1153: 18, 1187: 18, 1221: 18, 1255: 18, 1289: 18, 1323: 18, 1357: 18, 1391: 18, 1424: 18, 1458: 18, 1491: 18, 1526: 18, 1560: 18, 1595: 18, 1629: 18, 1662: 18, 1696: 18, 1730: 18, 1763: 18, 1796: 18, 1830: 18, 1866: 18, 1899: 18, 1933: 18, 1967: 18, 2001: 1, 2002: 3, 2005: 5, 2015: 1, 2016: 1, 2019: 1, 2020: 61, 2025: 1, 2027: 2, 2032: 2, 2037: 2, 2041: 2, 2045: 2, 2049: 2, 2053: 2, 2057: 2, 2061: 2, 2065: 2, 2069: 2, 2072: 2, 2075: 2, 2078: 2, 2081: 2, 2085: 2, 2089: 2, 2093: 2, 2097: 2, 2101: 2, 2105: 2, 2109: 2, 2113: 2, 2117: 2, 2121: 2, 2125: 2, 2129: 2, 2133: 2, 2137: 2, 2141: 2, 2145: 2, 2149: 2, 2153: 2, 2157: 2, 2161: 2, 2165: 2, 2169: 2, 2173: 2, 2177: 2, 2181: 2, 2185: 2, 2189: 2, 2193: 2, 2197: 2, 2201: 2, 2205: 2, 2209: 2, 2213: 2, 2217: 2, 2221: 2, 2225: 2, 2229: 2, 2233: 2, 2238: 2, 2242: 2, 2246: 2, 2250: 2, 2254: 1, 2255: 1, 2256: 7, 2262: 5, 2273: 1, 2277: 2, 2278: 10, 2299: 1, 2300: 1, 2301: 4}
+root_inode_present=true inodes=1051 errors=0
+root_inode: mode=0x41ed parent_id=1 name=Some("root")
+listing_root_parent=2
+listing: files=1212 directories=153 symlinks=0 other=0 file_bytes=4800424 missing_inode=0 entries=1365
+listing_out=C:\Users\Filimoshki\Downloads\iphone14-5-ios-27-2-ipsw-analysis-main\iphone14-5-ios-27-2-ipsw-analysis-main\research\ios-27.3\data\appos\24C5037i__iPhone14,5\appos-listing.tsv

@@ -1,0 +1,19 @@
+﻿{
+  "block_size": 4096,
+  "fletcher_checksum_valid": true,
+  "integrity_metadata": {
+    "broken_xid": 0,
+    "flags": "0x00000000",
+    "hash_type": 1,
+    "hash_type_name": "SHA-256",
+    "root_hash_offset": 128,
+    "version": 2
+  },
+  "interpretation": "The object is APFS integrity metadata. A zero broken_xid means this record does not mark the seal broken; the Merkle root itself was not recomputed or validated.",
+  "object_id": 1172,
+  "object_subtype": "0x00000000",
+  "object_type": "0x001e",
+  "physical_block": 20,
+  "root_hash_value_persisted": false,
+  "transaction_id": 9
+}

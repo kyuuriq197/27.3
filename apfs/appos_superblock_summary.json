@@ -1,0 +1,18 @@
+﻿{
+    "ProductType":  "iPhone14,5",
+    "ProductVersion":  "27.3",
+    "Build":  "24C5037i",
+    "Image":  "141-93238-032.dmg",
+    "ImageBytes":  18874368,
+    "ImageSha256":  "0b549ce47523094c0e55efbbcdc92cbf65782464d1ff442096f2af22b5979f34",
+    "ReadScope":  "First 4096-byte APFS block only",
+    "Magic":  "NXSB",
+    "BlockSize":  4096,
+    "ObjectType":  "0x80000001",
+    "ObjectId":  1,
+    "TransactionId":  15,
+    "StoredChecksum":  "0x1686DA2AA6671AD4",
+    "ComputedChecksum":  "0x1686DA2AA6671AD4",
+    "ChecksumValid":  true,
+    "Limitation":  "A valid checksum establishes consistency of this one APFS block only; it does not validate the container, sealed volume, snapshots, or filesystem contents."
+}

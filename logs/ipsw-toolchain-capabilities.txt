@@ -1,0 +1,87 @@
+﻿### ipsw disk dmg --help
+🚧 List/Extract DMG partiton/blocks
+
+Usage:
+  ipsw disk dmg <DMG> [flags]
+
+Flags:
+  -d, --decrypt           Decrypt DMG
+  -h, --help              help for dmg
+  -k, --key string        Encrypted DMG key
+  -o, --output string     Output file
+  -p, --partition int     Extract a specific partition by number (default -1)
+  -w, --password string   Encrypted DMG password
+  -r, --re string         Extract partition that matches regex
+
+Global Flags:
+      --color           colorize output
+      --config string   config file (default is $HOME/.config/ipsw/config.yaml)
+      --no-color        disable colorize output
+  -V, --verbose         verbose output
+
+### ipsw fw tc --help
+Dump TrustCache
+
+Usage:
+  ipsw fw tc <IM4P|IPSW> [flags]
+
+Flags:
+  -h, --help            help for tc
+  -j, --json            Output in JSON format
+  -o, --output string   Folder to extract files to
+  -r, --remote          Parse remote IPSW URL
+
+Global Flags:
+      --color           colorize output
+      --config string   config file (default is $HOME/.config/ipsw/config.yaml)
+      --no-color        disable colorize output
+  -V, --verbose         verbose output
+
+### ipsw dyld --help
+Parse dyld_shared_cache
+
+Usage:
+  ipsw dyld [flags]
+  ipsw dyld [command]
+
+Aliases:
+  dyld, dsc
+
+Available Commands:
+  a2f         Lookup function containing unslid address
+  a2o         Convert address to offset
+  a2s         Lookup symbol at unslid address
+  disass      Disassemble at symbol/vaddr
+  dump        Dump data at given virtual address
+  extract     Extract dylib(s) for reverse engineering
+  ida         Analyze DSC in IDA Pro
+  image       Dump image array info
+  imports     List all dylibs that load a given dylib
+  info        Parse dyld_shared_cache
+  macho       Parse an incache dylib file
+  o2a         Convert offset to address
+  objc        Dump Objective-C Optimization Info
+  patches     Dump dyld patch info
+  prewarm     Dump DSC prewarming data
+  search      Find Dylib files for given search criteria
+  slide       Dump slide info
+  softlinks   Enumerate SOFT_LINK globals in a DSC image
+  str         Search dyld_shared_cache for string
+  stubs       Dump Stub Islands
+  swift       Dump Swift Optimizations Info
+  symaddr     Lookup or dump symbol(s)
+  tbd         Generate a text-based stub library '.tbd' file for a dylib
+  webkit      Get WebKit version from a dyld_shared_cache
+  xref        🚧 [WIP] Find all cross references to an address
+
+Flags:
+  -h, --help   help for dyld
+
+Global Flags:
+      --color           colorize output
+      --config string   config file (default is $HOME/.config/ipsw/config.yaml)
+      --no-color        disable colorize output
+  -V, --verbose         verbose output
+
+Use "ipsw dyld [command] --help" for more information about a command.
+

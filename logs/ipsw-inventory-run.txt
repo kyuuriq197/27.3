@@ -1,0 +1,28 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261106204129
+Username: DESKTOP-J9VLGBC\Filimoshki
+RunAs User: DESKTOP-J9VLGBC\Filimoshki
+Configuration Name: 
+Machine: DESKTOP-J9VLGBC (Microsoft Windows NT 10.0.26300.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -EncodedCommand JABFAHIAcgBvAHIAQQBjAHQAaQBvAG4AUAByAGUAZgBlAHIAZQBuAGMAZQAgAD0AIAAiAFMAdABvAHAAIgA7ACAAUwB0AGEAcgB0AC0AVAByAGEAbgBzAGMAcgBpAHAAdAAgAC0AUABhAHQAaAAgACIALgBcAHIAZQBzAGUAYQByAGMAaABcAGkAbwBzAC0AMgA3AC4AMwBcAGwAbwBnAHMAXABpAHAAcwB3AC0AaQBuAHYAZQBuAHQAbwByAHkALQByAHUAbgAuAHQAeAB0ACIAIAAtAEYAbwByAGMAZQAgAHwAIABPAHUAdAAtAE4AdQBsAGwAOwAgAHQAcgB5ACAAewAgACYAIAAiAC4AXAB0AG8AbwBsAHMAXAB3AGkAbgBkAG8AdwBzAFwARwBlAHQALQBJAHAAcwB3AEkAbgB2AGUAbgB0AG8AcgB5AC4AcABzADEAIgAgAC0ASQBwAHMAdwBQAGEAdABoACAAIgBDADoAXABVAHMAZQByAHMAXABGAGkAbABpAG0AbwBzAGgAawBpAFwARABvAHcAbgBsAG8AYQBkAHMAXABpAFAAaABvAG4AZQAxADQALAA1AF8AMgA3AC4AMwBfADIANABDADUAMAAzADcAaQBfAFIAZQBzAHQAbwByAGUALgBpAHAAcwB3ACIAIAB9ACAAZgBpAG4AYQBsAGwAeQAgAHsAIABTAHQAbwBwAC0AVAByAGEAbgBzAGMAcgBpAHAAdAAgAHwAIABPAHUAdAAtAE4AdQBsAGwAIAB9AA==
+Process ID: 14540
+PSVersion: 5.1.26100.9711
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9711
+BuildVersion: 10.0.26100.9711
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Version: 27.3 (24C5037i)
+Product types: iPhone14,5
+ZIP entries: 113; expanded bytes: 11639139444
+Archive SHA-256: b14c3a1d6e6267fc0bac209140d084799255d818cb84b3f23d2cc9e0036486cc
+Inventory: C:\Users\Filimoshki\Downloads\iphone14-5-ios-27-2-ipsw-analysis-main\iphone14-5-ios-27-2-ipsw-analysis-main\research\ios-27.3\firmware\ipsw_inventory.csv
+Metadata: C:\Users\Filimoshki\Downloads\iphone14-5-ios-27-2-ipsw-analysis-main\iphone14-5-ios-27-2-ipsw-analysis-main\research\ios-27.3\firmware\ipsw_metadata.json
+**********************
+Windows PowerShell transcript end
+End time: 20261106204201
+**********************

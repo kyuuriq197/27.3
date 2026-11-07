@@ -1,0 +1,67 @@
+﻿{
+    "Product":  "iPhone14,5",
+    "Version":  "27.3",
+    "Build":  "24C5037i",
+    "CacheCount":  5,
+    "TotalEntryMemberships":  4754,
+    "UniqueCdhashesAcrossCaches":  4329,
+    "RepeatedMembershipsBeyondFirstOccurrence":  425,
+    "PairwiseIntersections":  [
+                                  {
+                                      "First":  "Firmware/141-92811-032.dmg.trustcache",
+                                      "Second":  "Firmware/141-93054-032.dmg.trustcache",
+                                      "SharedCdhashCount":  370
+                                  },
+                                  {
+                                      "First":  "Firmware/141-92811-032.dmg.trustcache",
+                                      "Second":  "Firmware/141-93238-032.dmg.trustcache",
+                                      "SharedCdhashCount":  0
+                                  },
+                                  {
+                                      "First":  "Firmware/141-92811-032.dmg.trustcache",
+                                      "Second":  "Firmware/141-93752-026.dmg.aea.trustcache",
+                                      "SharedCdhashCount":  53
+                                  },
+                                  {
+                                      "First":  "Firmware/141-92811-032.dmg.trustcache",
+                                      "Second":  "Firmware/141-94047-030.dmg.aea.trustcache",
+                                      "SharedCdhashCount":  2
+                                  },
+                                  {
+                                      "First":  "Firmware/141-93054-032.dmg.trustcache",
+                                      "Second":  "Firmware/141-93238-032.dmg.trustcache",
+                                      "SharedCdhashCount":  0
+                                  },
+                                  {
+                                      "First":  "Firmware/141-93054-032.dmg.trustcache",
+                                      "Second":  "Firmware/141-93752-026.dmg.aea.trustcache",
+                                      "SharedCdhashCount":  51
+                                  },
+                                  {
+                                      "First":  "Firmware/141-93054-032.dmg.trustcache",
+                                      "Second":  "Firmware/141-94047-030.dmg.aea.trustcache",
+                                      "SharedCdhashCount":  2
+                                  },
+                                  {
+                                      "First":  "Firmware/141-93238-032.dmg.trustcache",
+                                      "Second":  "Firmware/141-93752-026.dmg.aea.trustcache",
+                                      "SharedCdhashCount":  0
+                                  },
+                                  {
+                                      "First":  "Firmware/141-93238-032.dmg.trustcache",
+                                      "Second":  "Firmware/141-94047-030.dmg.aea.trustcache",
+                                      "SharedCdhashCount":  0
+                                  },
+                                  {
+                                      "First":  "Firmware/141-93752-026.dmg.aea.trustcache",
+                                      "Second":  "Firmware/141-94047-030.dmg.aea.trustcache",
+                                      "SharedCdhashCount":  0
+                                  }
+                              ],
+    "IndividualCdhashesPersisted":  false,
+    "Limitations":  [
+                        "Counts compare trustcache metadata only; they do not prove which binaries are present or executed.",
+                        "Overlap is not evidence of a vulnerability or authorization weakness.",
+                        "No hash values, payloads, key lookup, or decryption results are included."
+                    ]
+}

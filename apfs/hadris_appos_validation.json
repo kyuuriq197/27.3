@@ -1,0 +1,220 @@
+{
+  "container": {
+    "block_count": 4608,
+    "block_size": 4096,
+    "incompatible_features": "0x2",
+    "xid": 15
+  },
+  "image": "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\data\\appos\\24C5037i__iPhone14,5\\141-93238-032.dmg",
+  "listing_comparison": {
+    "actual_entries": 1365,
+    "exact_nonzero_size_matches": 204,
+    "expected_entries": 1365,
+    "expected_zero_actual_nonzero": 0,
+    "expected_zero_actual_zero": 1161,
+    "kind_mismatch_count": 0,
+    "kind_mismatch_examples": [],
+    "listing": "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\data\\appos\\24C5037i__iPhone14,5\\appos-listing.tsv",
+    "only_in_appos_listing": [],
+    "only_in_appos_listing_count": 0,
+    "only_in_hadris_listing": [],
+    "only_in_hadris_listing_count": 0,
+    "size_mismatch_count": 0,
+    "size_mismatch_examples": []
+  },
+  "path_checks": [
+    {
+      "compressed": false,
+      "data_stream_size": null,
+      "file_id": 16,
+      "mode": "0x41ed",
+      "mode_kind": "directory",
+      "path": "/System",
+      "resolved": true,
+      "type": "directory"
+    },
+    {
+      "compressed": false,
+      "data_stream_size": null,
+      "file_id": 2277,
+      "mode": "0x41ed",
+      "mode_kind": "directory",
+      "path": "/usr",
+      "resolved": true,
+      "type": "directory"
+    },
+    {
+      "compressed": true,
+      "data_stream_size": null,
+      "file_id": 2279,
+      "mode": "0x81ed",
+      "mode_kind": "file",
+      "path": "/usr/libexec/AuthenticationServicesAgent",
+      "resolved": true,
+      "type": "file"
+    },
+    {
+      "compressed": false,
+      "data_stream_size": 385,
+      "file_id": 2302,
+      "mode": "0x81a4",
+      "mode_kind": "file",
+      "path": "/usr/share/man/man8/AuthenticationServicesAgent.8",
+      "read_bytes": 385,
+      "read_sha256": "a467ef52fd0cae732e91ef6da0f5c83df225b135860da714843c8059874f827c",
+      "resolved": true,
+      "type": "file"
+    },
+    {
+      "compressed": false,
+      "data_stream_size": 575,
+      "file_id": 2259,
+      "mode": "0x81a4",
+      "mode_kind": "file",
+      "path": "/System/Library/UserNotifications/Bundles/com.apple.Safari.PasswordBreachNotifications.bundle/PasswordsIcon.png",
+      "read_bytes": 575,
+      "read_sha256": "497f1257c52560a57ba6526fc23922cce821d24f67098019fd6d489769c5b372",
+      "resolved": true,
+      "type": "file"
+    }
+  ],
+  "root_directory": {
+    "entries": 2,
+    "items": [
+      {
+        "file_id": 2277,
+        "flags": 4,
+        "name": "usr",
+        "type": "directory"
+      },
+      {
+        "file_id": 16,
+        "flags": 4,
+        "name": "System",
+        "type": "directory"
+      }
+    ]
+  },
+  "root_tree_records": {
+    "by_type": {
+      "directory_record": 1367,
+      "inode": 1051,
+      "other_12": 362,
+      "other_13": 1835,
+      "other_5": 362,
+      "other_6": 130,
+      "xattr": 1522
+    },
+    "total": 6629
+  },
+  "volume": {
+    "incompatible_features": "0x28",
+    "name": "AppCryptex",
+    "number_directories": 153,
+    "number_files": 896,
+    "number_snapshots": 0,
+    "number_symlinks": 0,
+    "object_map_oid": 166,
+    "oid": 1026,
+    "root_tree_oid": 1174
+  },
+  "walk": {
+    "directories": 153,
+    "directory_errors": [],
+    "duplicate_directory_entries": 316,
+    "duplicate_examples": [
+      {
+        "directory_entries": 3,
+        "file_id": 397
+      },
+      {
+        "directory_entries": 2,
+        "file_id": 599
+      },
+      {
+        "directory_entries": 5,
+        "file_id": 393
+      },
+      {
+        "directory_entries": 6,
+        "file_id": 49
+      },
+      {
+        "directory_entries": 2,
+        "file_id": 572
+      },
+      {
+        "directory_entries": 5,
+        "file_id": 379
+      },
+      {
+        "directory_entries": 3,
+        "file_id": 681
+      },
+      {
+        "directory_entries": 4,
+        "file_id": 384
+      },
+      {
+        "directory_entries": 2,
+        "file_id": 391
+      },
+      {
+        "directory_entries": 5,
+        "file_id": 377
+      },
+      {
+        "directory_entries": 2,
+        "file_id": 700
+      },
+      {
+        "directory_entries": 54,
+        "file_id": 109
+      },
+      {
+        "directory_entries": 2,
+        "file_id": 422
+      },
+      {
+        "directory_entries": 2,
+        "file_id": 2086
+      },
+      {
+        "directory_entries": 57,
+        "file_id": 2030
+      },
+      {
+        "directory_entries": 57,
+        "file_id": 126
+      },
+      {
+        "directory_entries": 2,
+        "file_id": 592
+      },
+      {
+        "directory_entries": 3,
+        "file_id": 439
+      },
+      {
+        "directory_entries": 5,
+        "file_id": 387
+      },
+      {
+        "directory_entries": 2,
+        "file_id": 586
+      }
+    ],
+    "entries": 1365,
+    "files": 1212,
+    "files_with_size": 204,
+    "files_without_size": 1008,
+    "other": 0,
+    "symlinks": 0,
+    "total_data_stream_bytes": 4800424,
+    "unique_directory_inodes": 153,
+    "unique_file_inodes": 896,
+    "unique_other_inodes": 0,
+    "unique_symlink_inodes": 0,
+    "walk_errors": []
+  }
+}

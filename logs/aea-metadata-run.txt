@@ -1,0 +1,25 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261106221847
+Username: DESKTOP-J9VLGBC\Filimoshki
+RunAs User: DESKTOP-J9VLGBC\Filimoshki
+Configuration Name: 
+Machine: DESKTOP-J9VLGBC (Microsoft Windows NT 10.0.26300.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\tools\windows\Run-AeaMetadata.ps1 -IpswPath C:\Users\Filimoshki\Downloads\iPhone14,5_27.3_24C5037i_Restore.ipsw
+Process ID: 6916
+PSVersion: 5.1.26100.9711
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9711
+BuildVersion: 10.0.26100.9711
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+AEA metadata summary: C:\Users\Filimoshki\Downloads\iphone14-5-ios-27-2-ipsw-analysis-main\iphone14-5-ios-27-2-ipsw-analysis-main\research\ios-27.3\aea\aea_metadata_summary.json
+SystemOS: 8455716864 bytes; SHA-256 140649c4465be3c606f083d58ba85d7f2d9b8f6d80f3ebdbd90bffcfba7f73e6; info parser succeeded; saved only metadata field names.
+Cryptex SystemOS: 2415919104 bytes; SHA-256 c3bfebcb86b324748160b33559d8a5efc40955abc00ad842b2116409f82f83e1; info parser succeeded; saved only metadata field names.
+**********************
+Windows PowerShell transcript end
+End time: 20261106221900
+**********************

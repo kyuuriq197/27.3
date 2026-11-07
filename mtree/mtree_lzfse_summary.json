@@ -1,0 +1,68 @@
+﻿{
+    "Product":  "iPhone14,5",
+    "Version":  "27.3",
+    "Build":  "24C5037i",
+    "SourcePayload":  {
+                          "Bytes":  38547937,
+                          "Sha256":  "6b0193b1ed7b609700fab7e0a0f1347c371dbd4b6d05f6f62e9862568b39a79a",
+                          "WrapperMagic":  "pbze",
+                          "WrapperHeaderBytes":  28
+                      },
+    "Decoder":  {
+                    "Name":  "lzfoo 0.2.0",
+                    "Implementation":  "Pure Rust LZFSE decoder (lzfoo 0.2.0)",
+                    "CratesIoPackageSha256":  "d1f8d5da938fc75eb54511930260cf1fc8176f5064139e382024a4142355507d"
+                },
+    "LzfseFraming":  {
+                         "ChunkCount":  37,
+                         "InterChunkBytes":  576,
+                         "TotalCompressedBytes":  38547333,
+                         "TotalDecodedBytes":  153249671,
+                         "DecodedFormatCounts":  [
+                                                     {
+                                                         "Format":  "AppleArchiveMagic",
+                                                         "Chunks":  1
+                                                     },
+                                                     {
+                                                         "Format":  "Other",
+                                                         "Chunks":  36
+                                                     }
+                                                 ],
+                         "ChunkSizes":  [
+                                            {
+                                                "DecodedBytes":  2254727,
+                                                "Chunks":  1
+                                            },
+                                            {
+                                                "DecodedBytes":  4194304,
+                                                "Chunks":  36
+                                            }
+                                        ],
+                         "ChunkDetailsPersisted":  false
+                     },
+    "FirstChunkAppleArchive":  {
+                                   "DecodedBytes":  4194304,
+                                   "Magic":  "AA01",
+                                   "RecordCount":  2,
+                                   "RecordTypes":  [
+                                                       {
+                                                           "Type":  "D",
+                                                           "Records":  1
+                                                       },
+                                                       {
+                                                           "Type":  "F",
+                                                           "Records":  1
+                                                       }
+                                                   ],
+                                   "RecordHeaderBytes":  157,
+                                   "TrailingBytes":  4194147,
+                                   "PathsPersisted":  false,
+                                   "HashesPersisted":  false
+                               },
+    "Limitations":  [
+                        "The Apple Archive record headers in the first decoded chunk were parsed for record types and bounds only; paths, hashes, and file content were not persisted.",
+                        "The other decoded chunks were summarized by size and leading magic only; their contents and trailing hash-tree structure were not interpreted.",
+                        "This is unencrypted canonical metadata, not the AEA Cryptex SystemOS volume; no key lookup, AEA decryption, APFS mount, or binary analysis was performed."
+                    ],
+    "FirstDecodedChunkPath":  "data/mtree/canonical-metadata-index.bin"
+}

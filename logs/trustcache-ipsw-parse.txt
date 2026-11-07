@@ -1,0 +1,3 @@
+﻿Initial exploratory trustcache parse emitted full JSON to this log.
+The reproducible sanitized run is documented at trustcache\trustcache-report.md.
+Full parser JSON is retained only in ignored data\trustcache\trustcache-parser-output.json.

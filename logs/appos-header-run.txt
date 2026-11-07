@@ -1,0 +1,25 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261106222720
+Username: DESKTOP-J9VLGBC\Filimoshki
+RunAs User: DESKTOP-J9VLGBC\Filimoshki
+Configuration Name: 
+Machine: DESKTOP-J9VLGBC (Microsoft Windows NT 10.0.26300.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\tools\windows\Run-AppOsHeader.ps1 -IpswPath C:\Users\Filimoshki\Downloads\iPhone14,5_27.3_24C5037i_Restore.ipsw
+Process ID: 6640
+PSVersion: 5.1.26100.9711
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9711
+BuildVersion: 10.0.26100.9711
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+AppOS header summary: C:\Users\Filimoshki\Downloads\iphone14-5-ios-27-2-ipsw-analysis-main\iphone14-5-ios-27-2-ipsw-analysis-main\research\ios-27.3\apfs\appos_header_summary.json
+AppOS SHA-256: 0b549ce47523094c0e55efbbcdc92cbf65782464d1ff442096f2af22b5979f34; bytes: 18874368; magic at offset 32: NXSB
+DMG parser exit code: 1; message: ⨯ file is not a DMG file
+**********************
+Windows PowerShell transcript end
+End time: 20261106222720
+**********************

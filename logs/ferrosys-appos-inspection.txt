@@ -1,0 +1,5 @@
+﻿ferrosys version: ferrosys 0.7.0
+detect exit code: 0
+detect output: apfs
+inspect exit code: 8
+inspect output: ferrosys: C:\Users\Filimoshki\Downloads\iphone14-5-ios-27-2-ipsw-analysis-main\iphone14-5-ios-27-2-ipsw-analysis-main\research\ios-27.3\data\appos\24C5037i__iPhone14,5\141-93238-032.dmg: apfs image refused: unsupported volume features: a sealed volume (0x20)

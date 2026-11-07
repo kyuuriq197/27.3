@@ -1,0 +1,51 @@
+﻿{
+    "IpswPath":  "C:\\Users\\Filimoshki\\Downloads\\iPhone14,5_27.3_24C5037i_Restore.ipsw",
+    "IpswBuild":  "24C5037i",
+    "ToolVersion":  "Version: 3.1.743, BuildCommit: b2c156960c79b0eefe0885dbb32cce7eef77cf2d",
+    "Results":  [
+                    {
+                        "ArchiveEntry":  "Firmware/141-93238-032.dmg.root_hash",
+                        "Bytes":  229,
+                        "Sha256":  "cf0cfefbaa108f730eeaffdce7ff625c3c0c5168c4cd28c4c00ae9c2a4104145",
+                        "LiteralAsciiMarkers":  [
+                                                    "casy",
+                                                    "IM4P"
+                                                ],
+                        "Im4pType":  "casy",
+                        "Im4pVersion":  "0",
+                        "PayloadBytes":  208,
+                        "Encrypted":  false,
+                        "LocalPath":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\data\\root-hash\\24C5037i__iPhone14,5\\Firmware\\141-93238-032.dmg.root_hash"
+                    },
+                    {
+                        "ArchiveEntry":  "Firmware/141-93752-026.dmg.aea.root_hash",
+                        "Bytes":  229,
+                        "Sha256":  "93e1056a7ff5ceb9227f894946b76d5ad12014c22b9cc468f20260bc56258f35",
+                        "LiteralAsciiMarkers":  [
+                                                    "IM4P",
+                                                    "isys"
+                                                ],
+                        "Im4pType":  "isys",
+                        "Im4pVersion":  "0",
+                        "PayloadBytes":  208,
+                        "Encrypted":  false,
+                        "LocalPath":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\data\\root-hash\\24C5037i__iPhone14,5\\Firmware\\141-93752-026.dmg.aea.root_hash"
+                    },
+                    {
+                        "ArchiveEntry":  "Firmware/141-94047-030.dmg.aea.root_hash",
+                        "Bytes":  229,
+                        "Sha256":  "f16d4d3d62609230dd4e73037f018f0e1d33c1c16b25a3627430c236ad1f08ab",
+                        "LiteralAsciiMarkers":  [
+                                                    "cssy",
+                                                    "IM4P"
+                                                ],
+                        "Im4pType":  "cssy",
+                        "Im4pVersion":  "0",
+                        "PayloadBytes":  208,
+                        "Encrypted":  false,
+                        "LocalPath":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\data\\root-hash\\24C5037i__iPhone14,5\\Firmware\\141-94047-030.dmg.aea.root_hash"
+                    }
+                ],
+    "Interpretation":  "Only byte length, SHA-256, and literal ASCII markers were recorded; no APFS root-hash semantics or signature validity was inferred.",
+    "Transcript":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\logs\\root-hash-inventory-run.txt"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "Build":  "24C5037i",
+    "ProductType":  "iPhone14,5",
+    "Image":  "141-93238-032.dmg",
+    "ImageBytes":  18874368,
+    "ImageSha256":  "0b549ce47523094c0e55efbbcdc92cbf65782464d1ff442096f2af22b5979f34",
+    "ToolVersion":  "ferrosys 0.7.0",
+    "ToolExecutableSha256":  "0a61595b7af9ef3f3e088985d5fac28018792f73c714052ac41aa540842ffc44",
+    "ToolCrateSha256":  "e73f7a89eb6074d89b456089a78a44e9fc2cf0cc03dee5c14df47b1a265c67f1",
+    "DetectExitCode":  0,
+    "DetectedFamily":  "apfs",
+    "InspectMode":  "quick; read-only; no filesystem scan",
+    "InspectExitCode":  8,
+    "InspectOutput":  "ferrosys: C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\data\\appos\\24C5037i__iPhone14,5\\141-93238-032.dmg: apfs image refused: unsupported volume features: a sealed volume (0x20)",
+    "Interpretation":  "APFS was detected, and the parser observed the sealed-volume feature (0x20) before refusing inspection. No complete volume report, snapshot listing, or filesystem scan was produced."
+}

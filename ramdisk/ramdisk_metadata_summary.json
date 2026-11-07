@@ -1,0 +1,39 @@
+﻿{
+    "IpswPath":  "C:\\Users\\Filimoshki\\Downloads\\iPhone14,5_27.3_24C5037i_Restore.ipsw",
+    "IpswBuild":  "24C5037i",
+    "ToolVersion":  "Version: 3.1.743, BuildCommit: b2c156960c79b0eefe0885dbb32cce7eef77cf2d",
+    "Results":  [
+                    {
+                        "Variant":  "Erase",
+                        "ArchiveEntry":  "141-93054-032.dmg",
+                        "ArchiveBytes":  245366811,
+                        "ArchiveSha256":  "eb77af17f7d309cb1db62038ae9d1486d234d0726444920daafd8ebfd21c884e",
+                        "Im4pType":  "rdsk",
+                        "Encrypted":  false,
+                        "Compression":  null,
+                        "PayloadBytes":  245366784,
+                        "PayloadSha256":  "a7e94c9bec8646c0611fb4c0dd685d369888d6f1310ac37dfde27b7c96d82645",
+                        "MetadataPath":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\ramdisk\\141-93054-032.dmg.im4p-info.json",
+                        "PayloadPath":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\data\\ramdisk\\payload\\141-93054-032.dmg.payload"
+                    },
+                    {
+                        "Variant":  "Upgrade",
+                        "ArchiveEntry":  "141-92811-032.dmg",
+                        "ArchiveBytes":  247463963,
+                        "ArchiveSha256":  "8289d052a06d2547515bf764309541d06d150c39d47e0403746698355c534eac",
+                        "Im4pType":  "rdsk",
+                        "Encrypted":  false,
+                        "Compression":  null,
+                        "PayloadBytes":  247463936,
+                        "PayloadSha256":  "33f7a01ae7808668fdc5c8a3f6b80dc37a810613cb349a80a29e8edcd7588e31",
+                        "MetadataPath":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\ramdisk\\141-92811-032.dmg.im4p-info.json",
+                        "PayloadPath":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\data\\ramdisk\\payload\\141-92811-032.dmg.payload"
+                    }
+                ],
+    "Transcript":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\logs\\ramdisk-metadata-run.txt",
+    "Limitations":  [
+                        "IM4P headers and payload bytes were parsed/extracted without key lookup or decryption.",
+                        "The extracted payloads were not mounted or enumerated as filesystems.",
+                        "A DMG partition parser rejected the payload format; APFS and restore utility contents remain unanalyzed."
+                    ]
+}

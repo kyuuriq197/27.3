@@ -1,0 +1,58 @@
+﻿{
+    "ProductType":  "iPhone14,5",
+    "ProductVersion":  "27.3",
+    "Build":  "24C5037i",
+    "ApfsReader":  "apfs 0.4.1",
+    "IndependentReader":  "hadris-apfs 3.0.0-rc.3",
+    "Results":  [
+                    {
+                        "Variant":  "Erase",
+                        "ArchiveEntry":  "141-93054-032.dmg",
+                        "PayloadBytes":  245366784,
+                        "PayloadSha256":  "a7e94c9bec8646c0611fb4c0dd685d369888d6f1310ac37dfde27b7c96d82645",
+                        "VolumeName":  "ramdisk",
+                        "BlockSize":  4096,
+                        "DeclaredFiles":  1260,
+                        "DeclaredDirectories":  458,
+                        "DeclaredSymlinks":  306,
+                        "WalkEntries":  2024,
+                        "WalkFiles":  1260,
+                        "WalkDirectories":  458,
+                        "WalkSymlinks":  306,
+                        "WalkOther":  0,
+                        "ApfsProbeFileBytes":  1237756512,
+                        "MaximumPathDepth":  9,
+                        "HadrisPathSetMatches":  true,
+                        "HadrisKindMismatchCount":  0,
+                        "HadrisSizeMismatchCount":  1551,
+                        "HadrisTraversalErrors":  0
+                    },
+                    {
+                        "Variant":  "Upgrade",
+                        "ArchiveEntry":  "141-92811-032.dmg",
+                        "PayloadBytes":  247463936,
+                        "PayloadSha256":  "33f7a01ae7808668fdc5c8a3f6b80dc37a810613cb349a80a29e8edcd7588e31",
+                        "VolumeName":  "ramdisk",
+                        "BlockSize":  4096,
+                        "DeclaredFiles":  1519,
+                        "DeclaredDirectories":  585,
+                        "DeclaredSymlinks":  307,
+                        "WalkEntries":  2411,
+                        "WalkFiles":  1519,
+                        "WalkDirectories":  585,
+                        "WalkSymlinks":  307,
+                        "WalkOther":  0,
+                        "ApfsProbeFileBytes":  1243508278,
+                        "MaximumPathDepth":  9,
+                        "HadrisPathSetMatches":  true,
+                        "HadrisKindMismatchCount":  0,
+                        "HadrisSizeMismatchCount":  1810,
+                        "HadrisTraversalErrors":  0
+                    }
+                ],
+    "Limitations":  [
+                        "The two readers agree on reachable paths and kinds; Hadris reports size mismatches on many path records, so file byte totals are not independently validated.",
+                        "The apfs crate reported file sizes are parser output and are not a complete content-hash or payload-integrity validation.",
+                        "This is static filesystem inventory only; no behavioral or vulnerability assessment was performed."
+                    ]
+}

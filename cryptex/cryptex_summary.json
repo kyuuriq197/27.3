@@ -1,0 +1,256 @@
+﻿{
+    "Target":  {
+                   "Product":  "iPhone14,5",
+                   "Version":  "27.3",
+                   "Build":  "24C5037i",
+                   "CryptexSystemOS":  {
+                                           "ArchiveEntry":  "141-94047-030.dmg.aea",
+                                           "Bytes":  2415919104,
+                                           "Sha256":  "c3bfebcb86b324748160b33559d8a5efc40955abc00ad842b2116409f82f83e1",
+                                           "AeaInfoParserSucceeded":  true,
+                                           "WkmsMetadataFieldNames":  [
+                                                                          "com.apple.wkms.auth-data",
+                                                                          "com.apple.wkms.fcs-key-url",
+                                                                          "com.apple.wkms.fcs-response",
+                                                                          "com.apple.wkms.url"
+                                                                      ],
+                                           "ParserValuesPersisted":  false,
+                                           "DecryptionAttempted":  false
+                                       },
+                   "RootHashSidecar":  {
+                                           "ArchiveEntry":  "Firmware/141-94047-030.dmg.aea.root_hash",
+                                           "Bytes":  229,
+                                           "Sha256":  "f16d4d3d62609230dd4e73037f018f0e1d33c1c16b25a3627430c236ad1f08ab",
+                                           "Im4pType":  "cssy",
+                                           "PayloadBytes":  208,
+                                           "Encrypted":  false
+                                       },
+                   "SystemTrustcache":  {
+                                            "ArchiveEntry":  "Firmware/141-94047-030.dmg.aea.trustcache",
+                                            "Bytes":  3191,
+                                            "Sha256":  "eaf20125d32f75684cdf6a719ca95010ed2390b5f6aa1828929376c0b6d3acb0",
+                                            "ParsedEntries":  131,
+                                            "DuplicateCdhashes":  0
+                                        },
+                   "BuildManifestCryptex1Components":  [
+                                                           {
+                                                               "Component":  "Cryptex1,AppOS",
+                                                               "ArchivePath":  "141-93238-032.dmg",
+                                                               "Bytes":  18874368,
+                                                               "DigestAlgorithm":  "SHA384",
+                                                               "DirectArchiveDigestStatus":  "Match",
+                                                               "BuildIdentityRows":  2
+                                                           },
+                                                           {
+                                                               "Component":  "Cryptex1,AppTrustCache",
+                                                               "ArchivePath":  "Firmware/141-93238-032.dmg.trustcache",
+                                                               "Bytes":  863,
+                                                               "DigestAlgorithm":  "SHA384",
+                                                               "DirectArchiveDigestStatus":  "Match",
+                                                               "BuildIdentityRows":  2
+                                                           },
+                                                           {
+                                                               "Component":  "Cryptex1,AppVolume",
+                                                               "ArchivePath":  "Firmware/141-93238-032.dmg.root_hash",
+                                                               "Bytes":  229,
+                                                               "DigestAlgorithm":  "SHA384",
+                                                               "DirectArchiveDigestStatus":  "Match",
+                                                               "BuildIdentityRows":  2
+                                                           },
+                                                           {
+                                                               "Component":  "Cryptex1,SystemOS",
+                                                               "ArchivePath":  "141-94047-030.dmg.aea",
+                                                               "Bytes":  2415919104,
+                                                               "DigestAlgorithm":  "SHA384",
+                                                               "DirectArchiveDigestStatus":  "Mismatch",
+                                                               "BuildIdentityRows":  2
+                                                           },
+                                                           {
+                                                               "Component":  "Cryptex1,SystemTrustCache",
+                                                               "ArchivePath":  "Firmware/141-94047-030.dmg.aea.trustcache",
+                                                               "Bytes":  3191,
+                                                               "DigestAlgorithm":  "SHA384",
+                                                               "DirectArchiveDigestStatus":  "Match",
+                                                               "BuildIdentityRows":  2
+                                                           },
+                                                           {
+                                                               "Component":  "Cryptex1,SystemVolume",
+                                                               "ArchivePath":  "Firmware/141-94047-030.dmg.aea.root_hash",
+                                                               "Bytes":  229,
+                                                               "DigestAlgorithm":  "SHA384",
+                                                               "DirectArchiveDigestStatus":  "Match",
+                                                               "BuildIdentityRows":  2
+                                                           }
+                                                       ],
+                   "BuildManifestDigestStatusCounts":  [
+                                                           {
+                                                               "Status":  "Match",
+                                                               "Components":  5
+                                                           },
+                                                           {
+                                                               "Status":  "Mismatch",
+                                                               "Components":  1
+                                                           }
+                                                       ],
+                   "ContentsAvailable":  false,
+                   "ContentsLimitation":  "The Cryptex SystemOS image is AEA-encrypted. No key lookup, decryption, APFS mount, or file-level inventory was performed."
+               },
+    "PreviousArchivedListing":  {
+                                    "ClaimedBuild":  "24B5099f",
+                                    "SourcePath":  "work/cryptex1_systemos_listing.txt.gz",
+                                    "IndependentlyExtractedOnCurrentHost":  false,
+                                    "RecordCount":  3085,
+                                    "DirectoryCount":  893,
+                                    "FileCount":  2190,
+                                    "SymlinkCount":  2,
+                                    "MalformedRows":  0,
+                                    "TopFileExtensions":  [
+                                                              {
+                                                                  "Extension":  ".strings",
+                                                                  "Files":  905
+                                                              },
+                                                              {
+                                                                  "Extension":  ".stringsdict",
+                                                                  "Files":  735
+                                                              },
+                                                              {
+                                                                  "Extension":  ".js",
+                                                                  "Files":  173
+                                                              },
+                                                              {
+                                                                  "Extension":  "[no extension]",
+                                                                  "Files":  74
+                                                              },
+                                                              {
+                                                                  "Extension":  ".plist",
+                                                                  "Files":  56
+                                                              },
+                                                              {
+                                                                  "Extension":  ".md",
+                                                                  "Files":  24
+                                                              },
+                                                              {
+                                                                  "Extension":  ".svg",
+                                                                  "Files":  24
+                                                              },
+                                                              {
+                                                                  "Extension":  ".dylib",
+                                                                  "Files":  23
+                                                              },
+                                                              {
+                                                                  "Extension":  ".png",
+                                                                  "Files":  18
+                                                              },
+                                                              {
+                                                                  "Extension":  ".heic",
+                                                                  "Files":  17
+                                                              },
+                                                              {
+                                                                  "Extension":  ".json",
+                                                                  "Files":  12
+                                                              },
+                                                              {
+                                                                  "Extension":  ".bin",
+                                                                  "Files":  7
+                                                              },
+                                                              {
+                                                                  "Extension":  ".car",
+                                                                  "Files":  7
+                                                              },
+                                                              {
+                                                                  "Extension":  ".html",
+                                                                  "Files":  6
+                                                              },
+                                                              {
+                                                                  "Extension":  ".metallib",
+                                                                  "Files":  5
+                                                              }
+                                                          ],
+                                    "LargestFiles":  [
+                                                         {
+                                                             "Path":  "./System/Library/Caches/com.apple.dyld/dyld_shared_cache_arm64e.symbols",
+                                                             "Bytes":  1243971584
+                                                         },
+                                                         {
+                                                             "Path":  "./System/Library/Caches/com.apple.dyld/dyld_shared_cache_arm64e.79.dyldlinkedit",
+                                                             "Bytes":  694730752
+                                                         },
+                                                         {
+                                                             "Path":  "./System/Library/Caches/com.apple.dyld/dyld_shared_cache_arm64e.25.dylddata",
+                                                             "Bytes":  229539840
+                                                         },
+                                                         {
+                                                             "Path":  "./System/Library/Caches/com.apple.dyld/dyld_shared_cache_arm64e.54.dylddata",
+                                                             "Bytes":  224985088
+                                                         },
+                                                         {
+                                                             "Path":  "./System/Library/Caches/com.apple.dyld/dyld_shared_cache_arm64e.26.dyldreadonly",
+                                                             "Bytes":  196444160
+                                                         },
+                                                         {
+                                                             "Path":  "./System/Library/Caches/com.apple.dyld/dyld_shared_cache_arm64e.77.dylddata",
+                                                             "Bytes":  164315136
+                                                         },
+                                                         {
+                                                             "Path":  "./System/Library/Caches/com.apple.dyld/dyld_shared_cache_arm64e.01",
+                                                             "Bytes":  131563520
+                                                         },
+                                                         {
+                                                             "Path":  "./System/Library/Caches/com.apple.dyld/dyld_shared_cache_arm64e.36",
+                                                             "Bytes":  131530752
+                                                         },
+                                                         {
+                                                             "Path":  "./System/Library/Caches/com.apple.dyld/dyld_shared_cache_arm64e.19",
+                                                             "Bytes":  131465216
+                                                         },
+                                                         {
+                                                             "Path":  "./System/Library/Caches/com.apple.dyld/dyld_shared_cache_arm64e.44",
+                                                             "Bytes":  131448832
+                                                         }
+                                                     ],
+                                    "DyldSharedCache":  {
+                                                            "FileCount":  85,
+                                                            "TotalBytes":  7400102867,
+                                                            "FileGroups":  [
+                                                                               {
+                                                                                   "Role":  "DyldData",
+                                                                                   "Files":  3,
+                                                                                   "Bytes":  618840064
+                                                                               },
+                                                                               {
+                                                                                   "Role":  "DyldLinkedit",
+                                                                                   "Files":  1,
+                                                                                   "Bytes":  694730752
+                                                                               },
+                                                                               {
+                                                                                   "Role":  "DyldReadOnly",
+                                                                                   "Files":  3,
+                                                                                   "Bytes":  200196096
+                                                                               },
+                                                                               {
+                                                                                   "Role":  "NumberedSegment",
+                                                                                   "Files":  72,
+                                                                                   "Bytes":  4597874688
+                                                                               },
+                                                                               {
+                                                                                   "Role":  "Other",
+                                                                                   "Files":  4,
+                                                                                   "Bytes":  37772243
+                                                                               },
+                                                                               {
+                                                                                   "Role":  "Symbols",
+                                                                                   "Files":  2,
+                                                                                   "Bytes":  1250689024
+                                                                               }
+                                                                           ],
+                                                            "Limitation":  "Filename and size grouping from the archived listing only; no dyld cache was parsed."
+                                                        },
+                                    "Frameworks":  {
+                                                       "DirectoryCount":  39,
+                                                       "FileCount":  2059,
+                                                       "TotalFileBytes":  90646249,
+                                                       "Limitation":  "Path-suffix grouping from the archived listing only; framework binaries and contents were not parsed."
+                                                   },
+                                    "Limitation":  "This summarizes the saved 27.2 listing only; it is not evidence of 27.3 Cryptex contents or a binary comparison."
+                                }
+}

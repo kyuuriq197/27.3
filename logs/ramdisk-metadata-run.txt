@@ -1,0 +1,25 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261106220606
+Username: DESKTOP-J9VLGBC\Filimoshki
+RunAs User: DESKTOP-J9VLGBC\Filimoshki
+Configuration Name: 
+Machine: DESKTOP-J9VLGBC (Microsoft Windows NT 10.0.26300.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\tools\windows\Run-RamdiskMetadata.ps1 -IpswPath C:\Users\Filimoshki\Downloads\iPhone14,5_27.3_24C5037i_Restore.ipsw
+Process ID: 7796
+PSVersion: 5.1.26100.9711
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9711
+BuildVersion: 10.0.26100.9711
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Ramdisk metadata summary: C:\Users\Filimoshki\Downloads\iphone14-5-ios-27-2-ipsw-analysis-main\iphone14-5-ios-27-2-ipsw-analysis-main\research\ios-27.3\ramdisk\ramdisk_metadata_summary.json
+Erase: archive SHA-256 eb77af17f7d309cb1db62038ae9d1486d234d0726444920daafd8ebfd21c884e; IM4P rdsk, encrypted=False; payload 245366784 bytes, SHA-256 a7e94c9bec8646c0611fb4c0dd685d369888d6f1310ac37dfde27b7c96d82645
+Upgrade: archive SHA-256 8289d052a06d2547515bf764309541d06d150c39d47e0403746698355c534eac; IM4P rdsk, encrypted=False; payload 247463936 bytes, SHA-256 33f7a01ae7808668fdc5c8a3f6b80dc37a810613cb349a80a29e8edcd7588e31
+**********************
+Windows PowerShell transcript end
+End time: 20261106220608
+**********************

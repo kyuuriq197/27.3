@@ -1,0 +1,18 @@
+﻿{
+    "IpswPath":  "C:\\Users\\Filimoshki\\Downloads\\iPhone14,5_27.3_24C5037i_Restore.ipsw",
+    "IpswBuild":  "24C5037i",
+    "ToolVersion":  "Version: 3.1.743, BuildCommit: b2c156960c79b0eefe0885dbb32cce7eef77cf2d",
+    "ArchiveEntry":  "141-93238-032.dmg",
+    "ImagePath":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\data\\appos\\24C5037i__iPhone14,5\\141-93238-032.dmg",
+    "Bytes":  18874368,
+    "Sha256":  "0b549ce47523094c0e55efbbcdc92cbf65782464d1ff442096f2af22b5979f34",
+    "First36BytesHex":  "D4-1A-67-A6-2A-DA-86-16-01-00-00-00-00-00-00-00-0F-00-00-00-00-00-00-00-01-00-00-80-00-00-00-00-4E-58-53-42",
+    "MagicAtOffset32":  "NXSB",
+    "DiskParserExitCode":  1,
+    "DiskParserMessage":  "⨯ file is not a DMG file",
+    "Transcript":  "C:\\Users\\Filimoshki\\Downloads\\iphone14-5-ios-27-2-ipsw-analysis-main\\iphone14-5-ios-27-2-ipsw-analysis-main\\research\\ios-27.3\\logs\\appos-header-run.txt",
+    "Limitations":  [
+                        "The observed NXSB byte signature at offset 32 is a raw header observation, not a validated APFS container parse.",
+                        "The pinned tool rejected this input as a DMG; no APFS mount, snapshot traversal, or filesystem inventory was performed."
+                    ]
+}
